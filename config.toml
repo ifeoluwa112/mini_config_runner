@@ -1,0 +1,9 @@
+debug = true
+
+[app]
+name = "MiniConfigRunner"
+port = 9000
+
+[database]
+url = "postgres://localhost"
+pool_size = 10
